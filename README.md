@@ -1,4 +1,4 @@
-# Introduction-to-Cloud-Computing
+# Introduction-to-Cloud-Computing (In process of updating this guide with images)
 
 - Traditional deployment models for IT services available before Cloud:
   - On Premises solutions
