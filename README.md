@@ -57,7 +57,8 @@ industry standard definition of Cloud Computing in 2011:
 - Virtualization has been around a lot longer than Cloud Computing though
 - This lecture focuses on server virtualization because it was the first type available, but the same principles can be applied to virtualize network infrastructure equipment
 
-![](CCNAmd/images/Cloudimages/Cloud/Aspose.Words.e650799a-1137-4e9d-91c4-04daf8c20ba7.001.png)
+
+![](https://github.com/johndoe/my-repo/raw/master/image.png)
 
 ![](images/Cloud/Aspose.Words.e650799a-1137-4e9d-91c4-04daf8c20ba7.002.png)
 
